@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rannymonita.
 - 👀 I’m interested in creating simple and interesting customer/user experience.
-- 🌱 I’m currently learning React App.
-- 💞️ I’m looking to collaborate with Designers & Developers who's looking for a creative coding talent.
+- 🌱 I’m a beginner in creative coding: HTML/CSS, Javascript and React.
+- 💞️ Specialized in storefront for desktop and mobile.
 - 📫 How to reach me : rannymonita@gmail.com
 
 <!---
